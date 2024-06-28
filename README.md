@@ -43,5 +43,5 @@ This code snippet uses the DiffusionPipeline class from the diffusers library to
 
 ### Sample Generated Images 
 
-![Generated image]('https://github.com/balakrish181/diffusion_project/blob/main/cifar_gen_iamge.png')
+![Generated image](cifar_gen_iamge.png)
 
