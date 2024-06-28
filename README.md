@@ -14,6 +14,8 @@ Install the necessary dependencies using
 pip install requirements.txt
 ```
 
+Additionally, git lfs must be installed, if running locally, from [Git LFS](https://git-lfs.com/).
+
 Run the following code! 
 
 ```bash
