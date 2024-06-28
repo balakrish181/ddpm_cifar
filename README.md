@@ -11,7 +11,7 @@ In order to generate the images,
 Install the necessary dependencies using 
 
 ```bash
-pip install requirements.txt
+pip install -r requirements.txt
 ```
 
 Additionally, git lfs must be installed, if running locally, from [Git LFS](https://git-lfs.com/).
